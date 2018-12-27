@@ -1,0 +1,46 @@
+[
+  {
+    "ParameterKey": "Subnets",
+    "ParameterValue": "subnet-068fc293e3ad7a9be,subnet-010e9b59b8f280b98"
+  }, 
+  {
+    "ParameterKey": "VPC",
+    "ParameterValue": "vpc-02267fbf8b2ec8e30"
+  },
+  {
+    "ParameterKey": "Size",
+    "ParameterValue": "2"
+  },
+  {
+    "ParameterKey": "MaxSize",
+    "ParameterValue": "4"
+  },
+  {
+    "ParameterKey": "Scheme",
+    "ParameterValue": "internal"
+  },
+  {
+    "ParameterKey": "InstanceType",
+    "ParameterValue": "t2.large"
+  },
+  {
+    "ParameterKey": "ListenerCertificateARN",
+    "ParameterValue": "arn:aws:iam::778784494011:server-certificate/Ret-Digital-DEV-ALB-CER"
+  },
+  {
+    "ParameterKey": "HealthCheckPath",
+    "ParameterValue": "/health"
+  },
+  {
+    "ParameterKey": "HealthCheckPort",
+    "ParameterValue": "3000"
+  },
+  {
+    "ParameterKey": "CustomDomainName",
+    "ParameterValue": "retirement-b2c-dev.aws008east1.prudential.com"
+  },
+  {
+    "ParameterKey": "HostedZone",
+    "ParameterValue": "Z2K1YY6RXP2SNC"
+  }
+]
